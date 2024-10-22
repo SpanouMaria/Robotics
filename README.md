@@ -1,6 +1,6 @@
 # Robotics Project
 
-Welcome to the "Robotics Project," a simulation of a mobile robot named Jackal and a robotic manipulator called Rrbot, both implemented in Python. The goal is to run a simulation for both robots and navigate them through a virtual environment.
+Welcome to the "Robotics Project," a simulation of a mobile robot named Jackal and a robotic manipulator called Rrbot, both implemented in Python. The goal is to run a simulation for both robots and navigate them through a virtual environment. This project was implemented during the sixth semester, in the course MYE031 of the curriculum of the University of Ioannina. The final grade of the project is 7 out of 10.
 
 
 ## Jackal Mobile Robot
